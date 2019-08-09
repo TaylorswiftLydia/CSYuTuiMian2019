@@ -30,3 +30,8 @@
 
 ## 浙江大学
 【全国推免服务系统开通前】[浙江大学关于2020年接收外校推荐免试研究生系统开放的通知](http://grs.zju.edu.cn/yjszs/redir.php?catalog_id=130678&object_id=189384)
+
+## 复旦大学
+【截止时间不一】[复旦大学2020年推免生预选拔须知](http://www.gsao.fudan.edu.cn/a1/70/c15014a172400/page.htm)
+
+【9.1截止】[2020 年复旦大学大数据学院推免生预选拔通知](http://www.sds.fudan.edu.cn/wp/?p=2833)
