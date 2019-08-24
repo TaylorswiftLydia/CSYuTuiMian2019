@@ -35,3 +35,6 @@
 【截止时间不一】[复旦大学2020年推免生预选拔须知](http://www.gsao.fudan.edu.cn/a1/70/c15014a172400/page.htm)
 
 【9.1截止】[2020 年复旦大学大数据学院推免生预选拔通知](http://www.sds.fudan.edu.cn/wp/?p=2833)
+
+## 同济大学
+【9.27截止】[同济大学关于2020年接受免试研究生预报名通知](http://yz.tongji.edu.cn/info/1010/1538.htm)
