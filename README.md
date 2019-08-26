@@ -1,5 +1,9 @@
 # 2019年计算机保研预推免
+<<<<<<< HEAD
 可以参考[夏令营篇](https://github.com/Smlight/CSXiaLingYing2019)，不分先后
+=======
+可以参考[夏令营篇](https://github.com/Smlight/CSXiaLingYing2019)，排名不分先后
+>>>>>>> 23d7cf5224533e3709fb2a5160fd1896375cd841
 
 ## 清华大学
 
